@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34708'
     url: http://www.gutenberg.org/2009/agents/34708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30607#Australia-its-history-and-present-conditionwith-their-respective-inhabitants
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2009-12-05'
 gutenberg_type: Text
